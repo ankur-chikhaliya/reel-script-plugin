@@ -1,8 +1,8 @@
 {
   "name": "reel-script",
   "displayName": "Reel Script Writer",
-  "version": "1.3.4",
-  "description": "Writes complete Instagram Reel / TikTok / Short scripts — scroll-stopping hooks, second-by-second beats with voiceover and shot list, one CTA, and a ready-to-post caption with hashtags. Also finds current trending topics/audio for a niche via live web search. Works for any niche and any language.",
+  "version": "1.4.0",
+  "description": "Writes complete Instagram Reel / TikTok / Short scripts — scroll-stopping hooks, second-by-second beats with voiceover and shot list, one CTA, and a ready-to-post caption with hashtags. Also finds current trending topics/audio and researches real hashtag reach/competition for a niche, both via live web search. Works for any niche and any language.",
   "author": {
     "name": "ankur-chikhaliya",
     "email": "hello@ankurchikhaliya.com",
@@ -11,7 +11,7 @@
   "homepage": "https://github.com/ankur-chikhaliya/reel-script-plugin",
   "repository": "https://github.com/ankur-chikhaliya/reel-script-plugin",
   "license": "MIT",
-  "keywords": ["reel", "instagram", "tiktok", "shorts", "script", "content", "social-media", "video", "trend", "trending", "viral"],
+  "keywords": ["reel", "instagram", "tiktok", "shorts", "script", "content", "social-media", "video", "trend", "trending", "viral", "hashtag", "seo"],
   "skills": "./skills/",
   "commands": ["./commands/"]
 }

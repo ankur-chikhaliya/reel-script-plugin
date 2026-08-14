@@ -46,6 +46,20 @@ what's trending in fitness reels right now
 
 Returns a ranked list of current trend-based ideas (live web search, not guesses) — pick one and it hands off straight into `reel-script` for the full write-up.
 
+### Research real hashtags instead of guessed ones
+
+**Auto-trigger:**
+```
+best hashtags for home fitness on instagram
+```
+
+**Explicit command:**
+```
+/reel-hashtags home fitness
+```
+
+`reel-script`'s caption hashtags are a best-guess mix by default. This researches real reach/competition data (source-backed, live search) and can swap the result into an existing caption.
+
 ## Example
 
 **Input:** "reel for my phone store, diwali offer"

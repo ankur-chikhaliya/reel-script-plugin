@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.4.0] - 2026-08-14
+
+### Added
+- New `reel-hashtags` skill + `/reel-hashtags` command: researches real hashtag reach/competition via live web search, source-backed (same mandatory-Source pattern as `reel-trends`), can swap results into an existing `reel-script` caption
+- `reel-script` hook angles expanded: pattern interrupt, loss aversion, social proof cold open + a cross-hook specificity rule (concrete numbers/timeframes beat vague phrasing)
+- `reel-script` CTA rule: same specificity principle applied to CTA wording
+- `reel-script` caption step now mentions `reel-hashtags` as an optional upgrade over its own guessed tags (not run automatically)
+- `SKILL_CHAINING.md` chain map updated for the 3-skill plugin
+
 ## [1.3.4] - 2026-08-14
 
 ### Fixed

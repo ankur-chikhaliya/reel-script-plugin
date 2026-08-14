@@ -36,6 +36,11 @@ Good hook angles to draw from (vary across the 3):
 - **Direct callout** — "If you [specific audience], stop scrolling."
 - **Result first** — show the end result, then explain how.
 - **Question that stings** — "Why is your X not working?"
+- **Pattern interrupt** — open mid-action or with something visually unexpected before a word is spoken; confusion buys an extra second of attention.
+- **Loss aversion** — "You're losing [money/time/results] every day you don't know this."
+- **Social proof cold open** — start on the result/reaction of someone else ("She didn't believe this worked until…") before revealing the how.
+
+Cross-hook rule: specificity beats vague every time — a number, a timeframe, or a named detail ("in 9 days," "₹200," "one setting") outperforms a generic version of the same hook. If a hook reads generic, add a concrete detail before finalizing.
 
 #### Script beats
 
@@ -59,11 +64,12 @@ One CTA only — never stack "like, share, comment, follow, save". Pick the one 
 - Engagement → a question viewers can answer in one word, or "Comment [word] and I'll send you…"
 - Saves (best for reach) → "Save this for when you [situation]."
 - No response method given and goal doesn't need one → skip a directed CTA, use a save/follow line instead.
+- Same specificity rule as hooks: "DM me DEAL" beats "DM me for more info" — name the exact word/thing, don't leave it vague.
 
 #### Caption
 - First line = a second hook (caption is truncated after ~1 line in feed; that line must make people tap "more").
 - 2–4 short lines of value or context, then the CTA repeated in text — include the link/handle from Step 1 if one was given (as text, since captions can't hyperlink except "link in bio").
-- Hashtags: 3–8, mix of one big (1M+ posts), a few medium (100K–1M), and niche ones. Put them in the caption, not a comment.
+- Hashtags: 3–8, mix of one big (1M+ posts), a few medium (100K–1M), and niche ones. Put them in the caption, not a comment. These are a best-guess mix, not researched — after delivering, mention once that `reel-hashtags` can swap in a source-backed set if the user wants researched reach data instead of a guess (don't run it automatically, just offer).
 
 #### Voiceover only
 Plain block of just the narration text, ready to read into a mic or paste into a text-to-speech tool. No timestamps, no directions.

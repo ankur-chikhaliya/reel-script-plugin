@@ -1,0 +1,29 @@
+{
+  "skill_name": "reel-hashtags",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "give me the best hashtags for a home fitness niche on instagram",
+      "expected_output": "Ranked table of 3-8 hashtags mixing big/medium/niche tiers, each backed by a live search result with a source link, ending with an offer to write/swap into a reel-script caption.",
+      "files": [],
+      "assertions": [
+        "Runs a live web search (loads WebSearch via ToolSearch if not already loaded) rather than answering from memory",
+        "Returns a table with columns for hashtag, tier, why/signal, and source",
+        "Every row's Source column has an actual site name/link, never blank or invented",
+        "Mixes at least one big, one medium, and one niche tag if search surfaces enough variety",
+        "Ends by offering to hand off into reel-script or swap into an existing caption"
+      ]
+    },
+    {
+      "id": 1,
+      "prompt": "research hashtags for [an extremely obscure, low-volume niche unlikely to have real hashtag data]",
+      "expected_output": "Honest statement that hashtag data is thin for this niche, without inventing post-count numbers or fake tags to fill the list.",
+      "files": [],
+      "assertions": [
+        "Does not fabricate specific post-count/volume numbers when search results are thin or generic",
+        "States plainly that hashtag data for the niche is limited",
+        "Does not silently pad the list to reach 3-8 tags with invented ones"
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Skill chaining convention
 
-This plugin has more than one skill (`reel-script`, `reel-trends`) and may get more. There's no code execution layer connecting them — Claude Code skills are instruction files, not functions, so "auto-call" only ever happens because one skill's text tells the model to hand off to another. This file is the standing rule for how that must be written whenever a skill is added or edited.
+This plugin has more than one skill (`reel-script`, `reel-trends`, `reel-hashtags`) and may get more. There's no code execution layer connecting them — Claude Code skills are instruction files, not functions, so "auto-call" only ever happens because one skill's text tells the model to hand off to another. This file is the standing rule for how that must be written whenever a skill is added or edited.
 
 ## Rule
 
@@ -15,6 +15,8 @@ Every skill in this plugin must declare, in its own SKILL.md, both directions wh
 
 - `reel-trends` → completion → offers handoff to `reel-script` (Step 4)
 - `reel-script` → missing topic → offers handoff to `reel-trends` (Step 1)
+- `reel-script` → caption's guessed hashtags → offers handoff to `reel-hashtags` (mentioned once after delivering, not forced)
+- `reel-hashtags` → completion → offers handoff to `reel-script` (Step 4), or swaps into an in-progress caption if triggered mid-script
 
 ## When adding a new skill
 
