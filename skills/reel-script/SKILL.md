@@ -11,7 +11,7 @@ Write short-form video scripts that stop the scroll and hold attention to the en
 
 Before writing, know these. If the user's message already contains them, don't ask — just write. Only ask about what's genuinely missing, in one short message, and skip any field that plainly doesn't apply to this content:
 
-1. **Topic** — what the reel is about.
+1. **Topic** — what the reel is about. If the user gave no topic at all (just "make me a reel" / "/reel-script" with nothing to work with), don't just ask "what's it about?" in isolation — offer the `reel-trends` skill as an option in the same message: "What's the reel about? Or, if you want, I can find trending ideas for your niche first — just tell me the niche." If they take that option, hand off to `reel-trends` Step 1. If a topic is already given, skip this entirely and proceed normally.
 2. **Goal** — sell something, teach something, entertain, or grow followers. Default: whatever the topic implies.
 3. **Language** — write the script in the language the user is writing in, unless they say otherwise. If the user asks in English but mentions an audience region (e.g. Indian audience), offer the local language or a mix (like Hinglish) as an option.
 4. **Length** — default 30 seconds. Reels under 35 seconds get rewatched more, and rewatches boost reach.

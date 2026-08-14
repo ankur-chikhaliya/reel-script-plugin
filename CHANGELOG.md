@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.3.0] - 2026-08-14
+
+### Added
+- `reel-script` now offers `reel-trends` when called with no topic at all, instead of a bare "what's it about?" — two-way chain now (`reel-trends`→`reel-script` already existed, added `reel-script`→`reel-trends`)
+- `SKILL_CHAINING.md`: standing convention doc — any future skill added to this plugin must declare its inbound-gap and completion handoffs to other skills in the plugin, so chaining stays automatic instead of siloed
+
 ## [1.2.2] - 2026-08-14
 
 ### Fixed
