@@ -9,12 +9,14 @@ Write short-form video scripts that stop the scroll and hold attention to the en
 
 ## Step 1: Get the essentials
 
-Before writing, know these four things. If the user's message already contains them, don't ask — just write. Only ask about what's genuinely missing, in one short message:
+Before writing, know these. If the user's message already contains them, don't ask — just write. Only ask about what's genuinely missing, in one short message, and skip any field that plainly doesn't apply to this content:
 
 1. **Topic** — what the reel is about.
 2. **Goal** — sell something, teach something, entertain, or grow followers. Default: whatever the topic implies.
 3. **Language** — write the script in the language the user is writing in, unless they say otherwise. If the user asks in English but mentions an audience region (e.g. Indian audience), offer the local language or a mix (like Hinglish) as an option.
 4. **Length** — default 30 seconds. Reels under 35 seconds get rewatched more, and rewatches boost reach.
+5. **Link or handle** (optional) — a website, profile, bio link, or handle worth pointing viewers to. Applies to any content type (product, portfolio, channel, event, personal brand) — not business-only. Ask only when the goal implies sending people somewhere; skip for pure entertainment/education with no destination.
+6. **Response method** (optional) — how viewers should act on the CTA: DM keyword, comment word, email, phone number, "link in bio," or none. Ask only when the goal needs a concrete next action; skip when the reel is just for reach, entertainment, or awareness.
 
 ## Step 2: Write the script
 
@@ -23,6 +25,7 @@ Use this exact structure every time:
 ### 🎬 [Reel title]
 
 **Topic:** … | **Goal:** … | **Length:** …s | **Language:** …
+*(If link/handle or response method were given, list them here too: **Link:** … | **Response:** …)*
 
 #### Hook options (pick one)
 Give 3 different hooks, each a different psychological angle. A hook is the first 1–2 seconds of spoken words + what's on screen. If the viewer isn't caught by second 2, they're gone — this is the highest-leverage part of the whole script.
@@ -48,15 +51,16 @@ Rules for beats:
 - Second-to-last beat: open a small loop or tease ("and the best part…") so the CTA doesn't feel like an ending.
 
 #### CTA
-One CTA only — never stack "like, share, comment, follow, save". Pick the one that matches the goal:
+One CTA only — never stack "like, share, comment, follow, save". Pick the one that matches the goal, and use the response method from Step 1 if one was given:
 - Grow → "Follow for more [specific thing]."
-- Sell → "DM me [word]" or "Link in bio."
+- Sell / point somewhere → "DM me [word]," "[response method] to get X," or "Link in bio" (use the actual link/handle from Step 1 if given).
 - Engagement → a question viewers can answer in one word, or "Comment [word] and I'll send you…"
 - Saves (best for reach) → "Save this for when you [situation]."
+- No response method given and goal doesn't need one → skip a directed CTA, use a save/follow line instead.
 
 #### Caption
 - First line = a second hook (caption is truncated after ~1 line in feed; that line must make people tap "more").
-- 2–4 short lines of value or context, then the CTA repeated in text.
+- 2–4 short lines of value or context, then the CTA repeated in text — include the link/handle from Step 1 if one was given (as text, since captions can't hyperlink except "link in bio").
 - Hashtags: 3–8, mix of one big (1M+ posts), a few medium (100K–1M), and niche ones. Put them in the caption, not a comment.
 
 #### Voiceover only
