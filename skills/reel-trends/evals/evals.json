@@ -8,7 +8,8 @@
       "files": [],
       "assertions": [
         "Runs a live web search (loads WebSearch via ToolSearch if not already loaded) rather than answering from memory",
-        "Returns a table with columns for idea, why it's trending, and suggested angle",
+        "Returns a table with columns for idea, why it's trending, suggested angle, and source",
+        "Every row's Source column has an actual site name/link traceable to a search result, never blank or 'various sources'",
         "Each idea's 'why trending' cites something concrete (an audio, format, challenge, or news/season hook), not a vague guess",
         "Does not present results older than ~4 weeks as 'trending today' without qualifying language",
         "Ends by offering to hand the picked idea off to write the full reel-script"

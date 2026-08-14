@@ -31,13 +31,14 @@ Give 5–8 ideas, most relevant/fresh first:
 
 ### 📈 Trending ideas for [niche]
 
-| # | Idea | Why it's trending | Suggested angle |
-|---|------|-------------------|------------------|
-| 1 | … | (format/audio/topic spiking + rough source) | (hook direction to take) |
-| … | … | … | … |
+| # | Idea | Why it's trending | Suggested angle | Source |
+|---|------|-------------------|------------------|--------|
+| 1 | … | (format/audio/topic spiking) | (hook direction to take) | [site name](URL) |
+| … | … | … | … | … |
 
 Rules:
 - Each idea must name *why* — a spiking audio, a format everyone's copying, a news/season hook, a challenge. Never "this could work" — trending means evidence found in Step 2, not a guess.
+- **Source column is mandatory** — every row must show the actual site name linked to the URL the claim came from (not "various sources" or left blank). If an idea can't be traced back to a specific search result, drop it rather than list it without a source.
 - Mix idea types: at least one trending-audio-led, one format/challenge-led, one topic/news-led, if search surfaces enough variety.
 - If search results are thin or too generic for the niche, say so plainly — don't pad with invented "trends."
 - No date-stamped urgency claims you can't back — if a source is >4 weeks old, label it "recently trending" not "trending today."

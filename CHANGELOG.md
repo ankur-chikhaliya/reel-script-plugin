@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.2.2] - 2026-08-14
+
+### Fixed
+- `reel-trends`: added mandatory Source column (site name + link) to the trending-ideas table — every row must trace back to an actual search result, no more "rough source" vagueness
+
 ## [1.2.1] - 2026-08-14
 
 ### Fixed
