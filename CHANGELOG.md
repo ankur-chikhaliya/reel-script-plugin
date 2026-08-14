@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.3.1] - 2026-08-14
+
+### Changed
+- Author display name updated to "ankur-chikhaliya" (plugin.json, LICENSE). GitHub repo path stays `ankur1423` — that's the real account username, unaffected by this cosmetic change.
+
 ## [1.3.0] - 2026-08-14
 
 ### Added
