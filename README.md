@@ -20,6 +20,8 @@ Claude Code plugin that writes complete short-form video scripts — Instagram R
 
 ## Usage
 
+### Write a script
+
 **Auto-trigger** — just ask naturally:
 ```
 make me a reel about my phone store's diwali offer
@@ -29,6 +31,20 @@ make me a reel about my phone store's diwali offer
 ```
 /reel-script diwali offer at my phone store
 ```
+
+### Find trending ideas first
+
+**Auto-trigger:**
+```
+what's trending in fitness reels right now
+```
+
+**Explicit command:**
+```
+/reel-trends fitness
+```
+
+Returns a ranked list of current trend-based ideas (live web search, not guesses) — pick one and it hands off straight into `reel-script` for the full write-up.
 
 ## Example
 

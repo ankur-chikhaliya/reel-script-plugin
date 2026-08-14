@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.2.0] - 2026-08-14
+
+### Added
+- New `reel-trends` skill + `/reel-trends` command: finds current trending topics/formats/audio for a niche via live web search, returns ranked ideas with why-it's-trending evidence
+- Hands off picked trend idea straight into `reel-script` for full script write
+
 ## [1.1.0] - 2026-08-14
 
 ### Added
