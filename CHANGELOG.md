@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.3.3] - 2026-08-14
+
+### Changed
+- GitHub account renamed `ankur1423` -> `ankur-chikhaliya`. Updated repo path everywhere: plugin.json (author.url, homepage, repository), README install command, git remote origin. GitHub auto-forwards the old URL for a while, but all references now point directly to the new path.
+
 ## [1.3.2] - 2026-08-14
 
 ### Changed

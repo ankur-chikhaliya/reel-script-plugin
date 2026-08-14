@@ -14,7 +14,7 @@ Claude Code plugin that writes complete short-form video scripts — Instagram R
 ## Installation
 
 ```bash
-/plugin marketplace add ankur1423/reel-script-plugin
+/plugin marketplace add ankur-chikhaliya/reel-script-plugin
 /plugin install reel-script@reel-script-plugin
 ```
 
