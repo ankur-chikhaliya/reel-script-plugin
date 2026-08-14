@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.4.1] - 2026-08-14
+
+### Changed (token reduction)
+- All 3 skill descriptions shortened (~50% shorter frontmatter) — these load into context every turn regardless of use, so this is the real recurring saving
+- All 3 SKILL.md bodies trimmed — condensed lists/tables, removed redundant phrasing, shorter worked example. One-time cost when a skill actually triggers, smaller impact than the description cut but still real
+- plugin.json top-level description shortened to match
+
+### Tried and reverted
+- Attempted converting `reel-trends`/`reel-hashtags` to command-only (no skill auto-trigger) to drop their standing listing cost to zero. Tested live: personal `~/.claude/commands/` files get surfaced in the skill listing the same way skills do, so this saved nothing and only cost the natural-language auto-trigger. Reverted — all 3 remain skills.
+
 ## [1.4.0] - 2026-08-14
 
 ### Added

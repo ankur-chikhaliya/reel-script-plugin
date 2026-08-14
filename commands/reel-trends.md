@@ -5,4 +5,4 @@ argument-hint: [niche or topic area]
 
 Niche/topic from user: $ARGUMENTS
 
-Follow the `reel-trends` skill's process exactly (Step 1: get niche + region/language, Step 2: run live web searches — never answer from memory, Step 3: return ranked trending ideas table with why-it's-trending evidence and a mandatory Source link per row, Step 4: offer to hand off the picked idea to `reel-script`). If `$ARGUMENTS` is empty, ask the user for the niche first.
+Follow the `reel-trends` skill's process exactly. If `$ARGUMENTS` is empty, ask for the niche first.
