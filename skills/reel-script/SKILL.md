@@ -49,6 +49,8 @@ Rules for beats:
 - Voiceover lines short. Spoken language, not written language. Read each line out loud in your head — if it sounds like an essay, rewrite it.
 - Put the most valuable point at ~70% mark, not the start — it pulls viewers deep into the video.
 - Second-to-last beat: open a small loop or tease ("and the best part…") so the CTA doesn't feel like an ending.
+- The last beat's end timestamp must equal the declared Length exactly — count beats and pace lines so total time lands on it, don't let the script drift longer or shorter than what the header promises.
+- Don't state claims as fact unless the user supplied them (numbers, results, guarantees, "clinically proven," "guaranteed," medical/financial/legal claims). If the topic is health, finance, or legal and the user didn't give backing facts, keep language to general/educational framing and add one short disclaimer line under the script (e.g. "Not medical/financial/legal advice").
 
 #### CTA
 One CTA only — never stack "like, share, comment, follow, save". Pick the one that matches the goal, and use the response method from Step 1 if one was given:

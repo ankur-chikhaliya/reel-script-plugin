@@ -13,7 +13,11 @@ Ask only if not given: **niche/topic area** (e.g. "fitness", "my phone repair sh
 
 ## Step 2: Search live
 
-Trends move in days, not months — never answer from memory. Use `WebSearch` (or the harness's web-search tool) with queries like:
+Trends move in days, not months — never answer from memory.
+
+If the web-search tool isn't loaded yet in this harness (e.g. it's deferred and only shown by name), load it first — in Claude Code that means calling `ToolSearch` with `select:WebSearch` before searching. If no web-search tool is available at all after that, stop and tell the user plainly: "I don't have live web search here, so I can't confirm real trends — I can still write a script if you give me a topic." Never fall back to guessing trends from memory to fill the gap.
+
+Once search is available, use it with queries like:
 - `"[niche] reel ideas trending 2026"`
 - `"[niche] tiktok trends this week"`
 - `"trending audio [niche] instagram reels"`

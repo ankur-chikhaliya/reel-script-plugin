@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.2.1] - 2026-08-14
+
+### Fixed
+- `reel-trends`: load WebSearch via ToolSearch if deferred, and explicitly refuse to guess trends from memory when no search tool is available
+- `reel-script`: beats must sum to the declared Length exactly (no more drift between header and actual runtime)
+- `reel-script`: added a claims guardrail — no stated-as-fact numbers/guarantees/medical-financial-legal claims unless user supplied them; disclaimer line added for those topics when unbacked
+- Added `reel-trends` evals (clear-trend niche + thin-data niche) — was previously untested
+- `plugin.json` keywords now include trend/trending/viral
+
 ## [1.2.0] - 2026-08-14
 
 ### Added

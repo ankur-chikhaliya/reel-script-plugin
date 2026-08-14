@@ -1,0 +1,29 @@
+{
+  "skill_name": "reel-trends",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "what's trending in fitness reels right now",
+      "expected_output": "Ranked table of 5-8 fitness trend ideas, each backed by a live search result (audio, format, topic, or challenge) with a stated why-it's-trending reason and a suggested angle, followed by an offer to write the full script for any pick.",
+      "files": [],
+      "assertions": [
+        "Runs a live web search (loads WebSearch via ToolSearch if not already loaded) rather than answering from memory",
+        "Returns a table with columns for idea, why it's trending, and suggested angle",
+        "Each idea's 'why trending' cites something concrete (an audio, format, challenge, or news/season hook), not a vague guess",
+        "Does not present results older than ~4 weeks as 'trending today' without qualifying language",
+        "Ends by offering to hand the picked idea off to write the full reel-script"
+      ]
+    },
+    {
+      "id": 1,
+      "prompt": "find trending reel ideas for [an extremely obscure, low-volume niche unlikely to have real trend data]",
+      "expected_output": "Honest statement that trend data is thin/generic for this niche, without inventing fake trends to fill the list, optionally offering adjacent/broader niche trends instead.",
+      "files": [],
+      "assertions": [
+        "Does not fabricate specific trending audio/format/challenge claims when search results are thin or generic",
+        "States plainly that trend data for the niche is limited",
+        "Does not silently pad the list to reach 5-8 ideas with invented trends"
+      ]
+    }
+  ]
+}
