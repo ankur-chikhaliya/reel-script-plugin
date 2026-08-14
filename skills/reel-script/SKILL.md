@@ -43,7 +43,7 @@ Curiosity gap · Bold claim/contrarian · Direct callout · Result first · Ques
 One only, matches goal, uses Step 1's response method if given: Grow→follow; Sell→DM/response-method/link-in-bio; Engagement→one-word question; Saves→"save this for when…". No response method + not needed → save/follow line.
 
 #### Caption
-First line = second hook. 2–4 lines value/context + CTA repeated (+ link as text). Hashtags 3–8 (big/medium/niche mix) — best-guess, not researched; mention once that `reel-hashtags` can swap in a source-backed set instead.
+First line = second hook. 2–4 lines value/context + CTA repeated (+ link as text). Hashtags 3–8 (big/medium/niche mix) — best-guess, not researched; mention once that `reel-hashtags` Step 1 can swap in a source-backed set instead.
 
 #### Voiceover only
 Plain narration text, no timestamps/directions.

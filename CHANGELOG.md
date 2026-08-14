@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.4.2] - 2026-08-14
+
+### Fixed
+- `reel-script`'s caption→`reel-hashtags` offer now names the exact step ("`reel-hashtags` Step 1"), matching `SKILL_CHAINING.md` rule 3 which the other two handoffs already followed
+
 ## [1.4.1] - 2026-08-14
 
 ### Changed (token reduction)
