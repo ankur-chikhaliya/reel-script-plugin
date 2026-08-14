@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.3.4] - 2026-08-14
+
+### Fixed
+- `commands/reel-script.md`: no-args fallback no longer says "ask the user for the topic first" (contradicted the skill's no-topic chaining offer) — now points at Step 1's actual no-topic behavior (offer `reel-trends`)
+- `reel-script` evals: added 4 cases that were previously untested — link/response fields used correctly in CTA/caption, beats-sum-to-declared-Length, claims guardrail on unbacked health/finance topics, and the no-topic → offer-reel-trends chaining
+
 ## [1.3.3] - 2026-08-14
 
 ### Changed
