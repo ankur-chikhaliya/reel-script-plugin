@@ -1,0 +1,90 @@
+---
+name: reel-script
+description: Writes complete Instagram Reel scripts — scroll-stopping hooks, second-by-second script beats with voiceover and shot list, CTA, and a ready-to-post caption with hashtags. Use this whenever the user wants a script, idea, or content for a Reel, Short, TikTok, or any short-form vertical video — even if they just say "make me a reel about X", "video idea", "content for Instagram", or paste a topic and ask for social media content. Works for any niche and any language.
+---
+
+# Reel Script Writer
+
+Write short-form video scripts that stop the scroll and hold attention to the end. Everything below exists for one reason: retention. Instagram shows a reel to more people when viewers watch all of it, so every line of the script must earn the next second of watch time.
+
+## Step 1: Get the essentials
+
+Before writing, know these four things. If the user's message already contains them, don't ask — just write. Only ask about what's genuinely missing, in one short message:
+
+1. **Topic** — what the reel is about.
+2. **Goal** — sell something, teach something, entertain, or grow followers. Default: whatever the topic implies.
+3. **Language** — write the script in the language the user is writing in, unless they say otherwise. If the user asks in English but mentions an audience region (e.g. Indian audience), offer the local language or a mix (like Hinglish) as an option.
+4. **Length** — default 30 seconds. Reels under 35 seconds get rewatched more, and rewatches boost reach.
+
+## Step 2: Write the script
+
+Use this exact structure every time:
+
+### 🎬 [Reel title]
+
+**Topic:** … | **Goal:** … | **Length:** …s | **Language:** …
+
+#### Hook options (pick one)
+Give 3 different hooks, each a different psychological angle. A hook is the first 1–2 seconds of spoken words + what's on screen. If the viewer isn't caught by second 2, they're gone — this is the highest-leverage part of the whole script.
+
+Good hook angles to draw from (vary across the 3):
+- **Curiosity gap** — "Nobody tells you this about…"
+- **Bold claim / contrarian** — "You're doing X wrong."
+- **Direct callout** — "If you [specific audience], stop scrolling."
+- **Result first** — show the end result, then explain how.
+- **Question that stings** — "Why is your X not working?"
+
+#### Script beats
+
+| Time | Voiceover / dialogue | On screen (shot list) |
+|------|---------------------|----------------------|
+| 0–2s | (chosen hook) | (visual that matches hook) |
+| … | … | … |
+
+Rules for beats:
+- Every 3–5 seconds something must *change* on screen — new shot, text pop, zoom, prop. Static = swipe.
+- Voiceover lines short. Spoken language, not written language. Read each line out loud in your head — if it sounds like an essay, rewrite it.
+- Put the most valuable point at ~70% mark, not the start — it pulls viewers deep into the video.
+- Second-to-last beat: open a small loop or tease ("and the best part…") so the CTA doesn't feel like an ending.
+
+#### CTA
+One CTA only — never stack "like, share, comment, follow, save". Pick the one that matches the goal:
+- Grow → "Follow for more [specific thing]."
+- Sell → "DM me [word]" or "Link in bio."
+- Engagement → a question viewers can answer in one word, or "Comment [word] and I'll send you…"
+- Saves (best for reach) → "Save this for when you [situation]."
+
+#### Caption
+- First line = a second hook (caption is truncated after ~1 line in feed; that line must make people tap "more").
+- 2–4 short lines of value or context, then the CTA repeated in text.
+- Hashtags: 3–8, mix of one big (1M+ posts), a few medium (100K–1M), and niche ones. Put them in the caption, not a comment.
+
+#### Voiceover only
+Plain block of just the narration text, ready to read into a mic or paste into a text-to-speech tool. No timestamps, no directions.
+
+## Step 3: Offer one iteration
+
+After delivering, offer exactly one follow-up: "Want a different angle, different hook style, or a version in another language?" Don't list more options than that.
+
+## Language notes
+
+- Write natural spoken language for that locale, not translated English. Hinglish means Roman script with natural code-switching ("Ye galti sab karte hain — aur fix itna simple hai").
+- Hashtags stay mostly in English/Roman script regardless of script language — that's how people search.
+- If the reel is for a non-English audience, hooks translated word-for-word from English usually fall flat; rewrite the hook idea natively.
+
+## Example (abbreviated)
+
+**User:** "reel for my phone store, diwali offer"
+
+**Output starts:**
+
+### 🎬 Diwali Phone Deal Reel
+
+**Topic:** Diwali offer at phone store | **Goal:** Sell / walk-ins | **Length:** 20s | **Language:** Hinglish
+
+#### Hook options
+1. (Curiosity) "Diwali pe phone lene ka sahi time? Aaj nahi — ye video pehle dekho."
+2. (Callout) "Naya phone chahiye aur budget tight hai? Ruk ja 20 second."
+3. (Result first) *[shot: customer holding new phone + gift box]* "Isne aaj sirf ₹X me flagship liya. Kaise?"
+
+…then beats table, CTA ("Store ka naam DM karo — offer price bhej dunga"), caption, voiceover block.

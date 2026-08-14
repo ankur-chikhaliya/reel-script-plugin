@@ -1,0 +1,35 @@
+{
+  "skill_name": "reel-script",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "write me a reel script for my clothing store, we have big sale this weekend upto 50% off, my customers are local indian people",
+      "expected_output": "Complete reel script: 3 hooks, timed beats table with voiceover + shot list, single sales CTA, caption with hashtags, voiceover-only block. Language suited to Indian local audience (Hinglish offered/used).",
+      "files": [],
+      "assertions": [
+        "Provides 3 distinct hook options with different angles",
+        "Has a timed beats structure with both voiceover text and on-screen/shot-list directions",
+        "Has exactly one clear CTA (does not stack like+share+comment+follow+save together)",
+        "Includes a ready-to-post caption whose first line works as a hook",
+        "Caption includes 3-8 hashtags",
+        "Includes a plain voiceover-only text block with no timestamps or directions",
+        "Script language suits a local Indian audience (Hinglish or local language used or offered)"
+      ]
+    },
+    {
+      "id": 1,
+      "prompt": "make a 30 second reel about 3 tips to make your phone battery last longer, for my tech tips instagram page, in english",
+      "expected_output": "Complete 30s educational reel script: 3 hooks, beats table pacing 3 tips with visual changes, follow/save CTA, caption with mixed-size hashtags, voiceover-only block.",
+      "files": [],
+      "assertions": [
+        "Provides 3 distinct hook options with different angles",
+        "Has a timed beats structure covering roughly 30 seconds",
+        "Beats include both voiceover text and on-screen/shot-list directions",
+        "All 3 battery tips are present in the script",
+        "Has exactly one clear CTA appropriate for growth (follow or save), not a stacked CTA",
+        "Includes a ready-to-post caption with 3-8 hashtags",
+        "Includes a plain voiceover-only text block with no timestamps or directions"
+      ]
+    }
+  ]
+}

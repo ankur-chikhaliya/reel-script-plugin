@@ -1,0 +1,17 @@
+{
+  "name": "reel-script",
+  "displayName": "Reel Script Writer",
+  "version": "1.0.0",
+  "description": "Writes complete Instagram Reel / TikTok / Short scripts — scroll-stopping hooks, second-by-second beats with voiceover and shot list, one CTA, and a ready-to-post caption with hashtags. Works for any niche and any language.",
+  "author": {
+    "name": "ankur1423",
+    "email": "chikhaliyaankur2312@gmail.com",
+    "url": "https://github.com/ankur1423"
+  },
+  "homepage": "https://github.com/ankur1423/reel-script-plugin",
+  "repository": "https://github.com/ankur1423/reel-script-plugin",
+  "license": "MIT",
+  "keywords": ["reel", "instagram", "tiktok", "shorts", "script", "content", "social-media", "video"],
+  "skills": "./skills/",
+  "commands": ["./commands/"]
+}
